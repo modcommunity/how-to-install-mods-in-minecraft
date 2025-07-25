@@ -91,6 +91,7 @@ There are *many* websites that host mods for Minecraft. Here is a list of the mo
 * [Modrinth](https://modrinth.com/mods)
 * [Planet Minecraft](https://www.planetminecraft.com/resources/mods/)
 * [Minecraft Forum](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods)
+* [Nexus Mods](https://www.nexusmods.com/games/minecraft)
 
 **NOTE** - We recommend reading the mod's description along with the user comments before downloading mods to ensure it's safe and you haven't missed any additional steps or dependencies.
 
