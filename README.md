@@ -21,7 +21,7 @@ Minecraft is one of the most heavily modded games of all time. Mods can add enti
     * [Installing Fabric](#installing-fabric)
 * [Where To Download Mods](#where-to-download-mods)
 * [Downloading & Installing Mods](#downloading--installing-mods)
-* [Managing Mods with Mod Managers](#managing-mods-with-mod-managers)
+* [Managing Mods With Mod Managers](#managing-mods-with-mod-managers)
 * [Common Issues & Troubleshooting](#common-issues--troubleshooting)
     * [Game Crashes on Launch](#game-crashes-on-launch)
     * [Incompatible Mods](#incompatible-mods)
@@ -108,7 +108,7 @@ When finding mods from the websites mentioned earlier, many mods contain specifi
 
 Your mod should now be active!
 
-## Managing Mods with Mod Managers
+## Managing Mods With Mod Managers
 A dedicated mod manager can simplify the process of downloading, installing, and updating mods and their dependencies. It also helps manage mod packs as well!
 
 Here are some popular mod managers!
