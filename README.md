@@ -1,12 +1,8 @@
-<div align="center">
-
-![banner|800x300](./images/banner.png)
-
-</div>
-
 A guide on how to **install mods** in **Minecraft** (Java Edition) for **singleplayer and multiplayer** gameplay. We’ll also cover popular mod loaders like [Forge](https://files.minecraftforge.net/) and [Fabric](https://fabricmc.net/), explain how to manage mods, and share trusted websites to download mods from.
 
 This guide is primarily for **Windows users**, but Linux and macOS users can follow similar steps with minor adjustments.
+
+[**View Guide On TMC (Recommended Due To Better Formatting)**](https://blog.moddingcommunity.com/how-to-download-install-mods-in-minecraft/)
 
 Minecraft is one of the most heavily modded games of all time. Mods can add entirely new dimensions, overhaul game mechanics, and introduce simple QoL improvements. This guide should give you a basic understanding on how to download and install mods on Minecraft!
 
